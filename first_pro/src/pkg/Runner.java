@@ -15,6 +15,7 @@ public static void main(String args[]){
 	{
 	case 1:
 		System.out.println((obj).add(x,y));
+		System.out.println("ok");
 		break;
 	case 2:
 		System.out.println(obj.mult(x, y));
